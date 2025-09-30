@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMzdzhmZGNjaXhhdmRodTh6cnR5MDJzNXg3bnptNTJ1ZzM5cDdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a student at Salem State University from Massachusetts<br><br>- 🔭 I’m working as a Network Technician <br>- 📚 I'm currently learning and majoring in Information Technology with a minor in Cyber Security<br>- ⚡ In my free time, I like to code and work on my homelab.</p>
+<p align="left">I'm a student at Salem State University from Massachusetts<br><br>- 🔭 I currently work as a Network Technician <br>- 📚 Right now I' learning and majoring in Information Technology with a minor in Cyber Security<br>- ⚡ In my free time, I love to coding and working on my homelab</p>
 
 ###
 
