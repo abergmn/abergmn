@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a student at Salem State University from Massachusetts<br><br>- 🔭 I currently work as a Network Technician <br>- 📚 Right now I' learning and majoring in Information Technology with a minor in Cyber Security<br>- ⚡ In my free time, I love to coding and working on my homelab</p>
+<p align="left">I'm a student at Salem State University from Massachusetts<br><br>- 🔭 I currently work as a Network Technician <br>- 📚 Right now I'm learning and majoring in Information Technology (with a minor in Cyber Security)<br>- ⚡ In my free time, I love coding and working on my homelab</p>
 
 ###
 
