@@ -16,13 +16,17 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+<p align="left">
+I'm a second-year Information Technology major at Salem State University with a passion for networking, systems administration, automation, and cybersecurity.<br>
+I focus on hands-on learning through practical projects and software development, primarily using JavaScript (Node.js) and Python.<br><br>
+- 🔭 Employed as a Network Technician<br>
+- 📚 Studying Information Technology with a minor in Cyber Security<br>
+- ⚡ In my free time, I enjoy coding and expanding my technical skills
+</p>
+
 ###
 
-<p align="left">I'm a student at Salem State University in Salem Massachusetts<br><br>- 🔭 I currently am employed as a Network Technician <br>- 📚 Right now I'm learning and majoring in Information Technology (with a minor in Cyber Security!) <br>- ⚡ In my free time, I love coding and working on my homelab</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 <table>
   <tr>
@@ -89,21 +93,23 @@
   </tr>
 </table>
 
-
 ###
 
-<div align="left">
-  <!-- add icons -->
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abergmn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=abergmn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
+
+<h3 align="left">📫 Contact</h3>
+
+<p align="left">
+- Email: <a href="mailto:a_bergmann@salemstate.edu">a_bergmann@salemstate.edu</a><br>
+- GitHub: <a href="https://github.com/abergmn" target="_blank" rel="noopener">github.com/abergmn</a>
+</p>
+
+---
+
+> *“Driven by curiosity, powered by hands-on experience.”*
