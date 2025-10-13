@@ -17,11 +17,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-I'm a second-year Information Technology major at Salem State University with a passion for networking, systems administration, automation, and cybersecurity.
-I focus on hands-on learning through practical projects and software development, primarily using JavaScript (Node.js) and Python.
-- 🔭 Employed as a Network Technician
-- 📚 Studying Information Technology with a minor in Cyber Security
-- ⚡ In my free time, I enjoy coding and expanding my technical skills
+I'm a second-year Information Technology major at Salem State University with a passion for networking, systems administration, automation, and cybersecurity. I focus on hands-on learning through practical projects and software development, primarily using JavaScript (Node.js) and Python.<br>
+- 🔭 Employed as a Network Technician<br>
+- 📚 Studying Information Technology with a minor in Cyber Security<br>
+- ⚡ In my free time, I enjoy coding and expanding my technical skills<br>
 </p>
 
 ###
