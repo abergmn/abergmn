@@ -1,114 +1,50 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMzdzhmZGNjaXhhdmRodTh6cnR5MDJzNXg3bnptNTJ1ZzM5cDdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-</div>
+<h1 align="center">Aaron Bergmann</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abergmn.abergmn&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">
-I'm a second-year Information Technology major at Salem State University with a passion for networking, systems administration, automation, and cybersecurity. I focus on hands-on learning through practical projects and software development, primarily using JavaScript (Node.js) and Python.<br>
-- 🔭 Employed as a Network Technician<br>
-- 📚 Studying Information Technology with a minor in Cyber Security<br>
-- ⚡ In my free time, I enjoy coding and expanding my technical skills<br>
-</p>
-
-###
-
-<h3 align="left">🛠 Language and Tools</h3>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abergmn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<h3 align="left">📫 Contact</h3>
-
-<p align="left">
-- Email: <a href="mailto:a_bergmann@salemstate.edu">a_bergmann@salemstate.edu</a><br>
-- GitHub: <a href="https://github.com/abergmn" target="_blank" rel="noopener">github.com/abergmn</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge" />
+  <img src="https://img.shields.io/badge/HPE&nbsp;Aruba-0079BF?style=for-the-badge&logo=aruba&logoColor=white" alt="Aruba Badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
 </p>
 
 ---
 
-> *“Driven by curiosity, powered by hands-on experience.”*
+I am a second-year Information Technology student at Salem State University specializing in network and system administration with a focus on cybersecurity. I design, automate, and maintain secure infrastructure environments, leveraging scripting and modern tools to optimize workflows.
+
+---
+
+## Areas of Expertise
+
+- **Networking:** Cisco, Aruba  
+- **Scripting & Automation:** Bash, Python  
+- **Operating Systems:** Linux (daily use, self-hosting)  
+- **Backend Development:** JavaScript (Node.js)  
+- **Infrastructure:** Homelab management, self-hosted services  
+- **Security:** Cybersecurity fundamentals, network security  
+
+---
+
+## Selected Projects
+
+### GWrapper -- Electron.js Wrapper NPM Package  
+Developed a streamlined Electron.js wrapper package to simplify desktop application development. The package abstracts common setup tasks, enabling faster prototyping and deployment.  
+*Technologies:* JavaScript, Electron.js, Node.js  
+[View Repository](https://github.com/abergmn/gwrapper)
+
+### abergmn.github.io -- Personal GitHub Portfolio Website  
+Designed and built a responsive portfolio website hosted on GitHub Pages to showcase my projects and professional background. Emphasizes clean UI and easy navigation.  
+*Technologies:* HTML, CSS, JavaScript, GitHub Pages  
+[View Website](https://abergmn.github.io)
+
+
+---
+
+## Portfolio & Contact
+
+Explore my work: [https://abergmn.github.io](https://abergmn.github.io)  
+Email: [aaron@example.com](mailto:a_bergmann@salemstate.edu)  
+<!-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
