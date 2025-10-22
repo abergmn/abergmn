@@ -19,25 +19,25 @@ I am a second-year Information Technology student at Salem State University spec
 
 ## Areas of Expertise
 
-- **Networking:** Cisco, Aruba  
-- **Scripting & Automation:** Bash, Python  
-- **Operating Systems:** Linux (daily use, self-hosting)  
-- **Backend Development:** JavaScript (Node.js)  
-- **Infrastructure:** Homelab management, self-hosted services  
-- **Security:** Cybersecurity fundamentals, network security  
+- **Networking:** Cisco, Aruba, Ubiquity
+- **Scripting & Automation:** Bash, Python 
+- **Operating Systems:** Windows, Linux (daily use, self-hosting)
+- **Backend Development:** Python, JavaScript (Node.js)
+- **Infrastructure:** Homelab management, self-hosted services
+- **Security:** Cybersecurity fundamentals, network security
 
 ---
 
 ## Selected Projects
 
-### GWrapper -- Electron.js Wrapper NPM Package  
-Developed a streamlined Electron.js wrapper package to simplify desktop application development. The package abstracts common setup tasks, enabling faster prototyping and deployment.  
-*Technologies:* JavaScript, Electron.js, Node.js  
+### GWrapper -- Electron.js Wrapper NPM Package
+Developed a streamlined Electron.js wrapper package to simplify desktop application development. The package abstracts common setup tasks, enabling faster prototyping and deployment.
+*Technologies:* JavaScript, Electron.js, Node.js
 [View Repository](https://github.com/abergmn/gwrapper)
 
-### abergmn.github.io -- Personal GitHub Portfolio Website  
-Designed and built a responsive portfolio website hosted on GitHub Pages to showcase my projects and professional background. Emphasizes clean UI and easy navigation.  
-*Technologies:* HTML, CSS, JavaScript, GitHub Pages  
+### abergmn.github.io -- Personal GitHub Portfolio Website
+Designed and built a responsive portfolio website hosted on GitHub Pages to showcase my projects and professional background. Emphasizes clean UI and easy navigation.
+*Technologies:* HTML, CSS, JavaScript, GitHub Pages
 [View Website](https://abergmn.github.io)
 
 
@@ -45,6 +45,6 @@ Designed and built a responsive portfolio website hosted on GitHub Pages to show
 
 ## Portfolio & Contact
 
-Explore my work: [https://abergmn.github.io](https://abergmn.github.io)  
-Email: [aaron@example.com](mailto:a_bergmann@salemstate.edu)  
+Explore my work: [https://abergmn.github.io](https://abergmn.github.io)
+Email: [aaron@example.com](mailto:a_bergmann@salemstate.edu)
 <!-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
