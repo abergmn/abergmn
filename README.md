@@ -19,7 +19,7 @@ I am a second-year Information Technology student at Salem State University spec
 
 ## Areas of Expertise
 
-- **Networking:** Cisco, Aruba, Ubiquity
+- **Networking:** Cisco, Aruba, Ubiquiti
 - **Scripting & Automation:** Bash, Python 
 - **Operating Systems:** Windows, Linux (daily use, self-hosting)
 - **Backend Development:** Python, JavaScript (Node.js)
