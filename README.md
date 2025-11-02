@@ -13,12 +13,11 @@
 
 ---
 
-I am a second-year Information Technology student at Salem State University specializing in network and system administration with a focus on cybersecurity. I design, automate, and maintain secure infrastructure environments, leveraging scripting and modern tools to optimize workflows.
+I am a second-year Information Technology student at Salem State University specializing in network and system administration with a minor in cybersecurity. I design and maintain secure infrastructure environments, leveraging scripting and modern tools.
 
 ---
 
 ## Areas of Expertise
-
 - **Networking:** Cisco, Aruba, Ubiquiti
 - **Scripting & Automation:** Bash, Python 
 - **Operating Systems:** Windows, Linux (daily use, self-hosting)
@@ -30,16 +29,17 @@ I am a second-year Information Technology student at Salem State University spec
 
 ## Selected Projects
 
-### GWrapper -- Electron.js Wrapper NPM Package
+### [Mosaic — Network Reconnaissance & Mapping Tool](https://github.com/abergmn/mosaic)
+Developed a Python‑based tool to perform host discovery, port scanning, banner grabbing and (planned) network topology mapping. Designed as a proof‑of‑concept for network intelligence gathering and visualization.
+*Technologies*: Python, CLI, Network Scanning
+
+### [GWrapper -- Electron.js Wrapper NPM Package](https://github.com/abergmn/gwrapper)
 Developed a streamlined Electron.js wrapper package to simplify desktop application development. The package abstracts common setup tasks, enabling faster prototyping and deployment.
 *Technologies:* JavaScript, Electron.js, Node.js
-[View Repository](https://github.com/abergmn/gwrapper)
 
-### abergmn.github.io -- Personal GitHub Portfolio Website
+### [abergmn.github.io -- Personal GitHub Portfolio Website](https://abergmn.github.io)
 Designed and built a responsive portfolio website hosted on GitHub Pages to showcase my projects and professional background. Emphasizes clean UI and easy navigation.
 *Technologies:* HTML, CSS, JavaScript, GitHub Pages
-[View Website](https://abergmn.github.io)
-
 
 ---
 
