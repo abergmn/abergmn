@@ -31,14 +31,17 @@ I am a second-year Information Technology student at Salem State University spec
 
 ### [Mosaic — Network Reconnaissance & Mapping Tool](https://github.com/abergmn/mosaic)
 Developed a Python‑based tool to perform host discovery, port scanning, banner grabbing and (planned) network topology mapping. Designed as a proof‑of‑concept for network intelligence gathering and visualization.
+<br />
 *Technologies*: Python, CLI, Network Scanning
 
 ### [GWrapper -- Electron.js Wrapper NPM Package](https://github.com/abergmn/gwrapper)
 Developed a streamlined Electron.js wrapper package to simplify desktop application development. The package abstracts common setup tasks, enabling faster prototyping and deployment.
+<br />
 *Technologies:* JavaScript, Electron.js, Node.js
 
 ### [abergmn.github.io -- Personal GitHub Portfolio Website](https://abergmn.github.io)
 Designed and built a responsive portfolio website hosted on GitHub Pages to showcase my projects and professional background. Emphasizes clean UI and easy navigation.
+<br />
 *Technologies:* HTML, CSS, JavaScript, GitHub Pages
 
 ---
