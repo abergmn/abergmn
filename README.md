@@ -48,6 +48,6 @@ Designed and built a responsive portfolio website hosted on GitHub Pages to show
 
 ## Portfolio & Contact
 
-Explore my work: [abergmn.github.io](https://abergmn.github.io)
-Email: [a_bergmann@salemstate.com](mailto:a_bergmann@salemstate.edu)
+- Explore my work: [abergmn.github.io](https://abergmn.github.io)
+- Email: [a_bergmann@salemstate.com](mailto:a_bergmann@salemstate.edu)
 <!-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
