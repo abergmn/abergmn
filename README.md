@@ -8,19 +8,19 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
+  <!--<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />-->
 </p>
 
 ---
 
-I am a second-year Information Technology student at Salem State University specializing in network and system administration with a minor in cybersecurity. I design and maintain secure infrastructure environments, leveraging scripting and modern tools.
+I am an Information Technology student at Salem State University specializing in network and system administration with a minor in cybersecurity. I design and maintain secure infrastructure environments, leveraging scripting and modern tools.
 
 ---
 
 ## Areas of Expertise
 - **Networking:** Cisco, Aruba, Ubiquiti
 - **Scripting & Automation:** Bash, Python 
-- **Operating Systems:** Windows, Linux (daily use, self-hosting)
+- **Operating Systems:** Windows, Linux (daily use + self-hosting)
 - **Backend Development:** Python, JavaScript (Node.js)
 - **Infrastructure:** Homelab management, self-hosted services
 - **Security:** Cybersecurity fundamentals, network security
@@ -32,7 +32,7 @@ I am a second-year Information Technology student at Salem State University spec
 ### [Mosaic — Network Reconnaissance & Mapping Tool](https://github.com/abergmn/mosaic)
 Developed a Python‑based tool to perform host discovery, port scanning, banner grabbing and (planned) network topology mapping. Designed as a proof‑of‑concept for network intelligence gathering and visualization.
 <br />
-*Technologies*: Python, CLI, Network Scanning
+*Technologies*: Python, CLI
 
 ### [GWrapper -- Electron.js Wrapper NPM Package](https://github.com/abergmn/gwrapper)
 Developed a streamlined Electron.js wrapper package to simplify desktop application development. The package abstracts common setup tasks, enabling faster prototyping and deployment.
