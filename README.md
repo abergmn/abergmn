@@ -12,7 +12,7 @@
 
 ---
 
-I am an Information Technology student at Salem State University, specializing in network and system administration with a minor in cybersecurity. I design and maintain secure infrastructure environments, leveraging scripting and modern tools.
+I'm an Information Technology student at Salem State University, specializing in network and system administration with a minor in cybersecurity. I design and maintain secure infrastructure environments, leveraging scripting and modern tools.
 
 ---
 
