@@ -33,7 +33,7 @@ A Python‑based tool for performing host discovery, port scanning, banner grabb
 <br />
 *Technologies*: Python, CLI
 
-### [GWrapper -- Electron.js Wrapper NPM Package](https://github.com/abergmn/gwrapper)
+### [GWrapper -- Electron.js Wrapper](https://github.com/abergmn/gwrapper)
 An Electron.js wrapper created to simplify desktop application development. The package abstracts common setup tasks, allowing for faster prototyping and deployment.
 <br />
 *Technologies:* JavaScript, Electron.js, Node.js
