@@ -21,8 +21,8 @@ I'm an Information Technology student at Salem State University, specializing in
 - **Scripting & Automation:** Python, Bash
 - **Operating Systems:** Windows, Linux (daily use + self-hosting)
 - **Backend Development:** Python, JavaScript (Node.js)
-- **Infrastructure:** Homelab management, self-hosted services
-- **Security:** Cybersecurity fundamentals, network security
+- **Infrastructure:** Homelab management, self-hosted services, enterprise campus networks
+- **Security:** Cybersecurity and network security fundamentals
 
 ---
 
