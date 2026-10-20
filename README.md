@@ -28,11 +28,6 @@ I'm an Information Technology student at Salem State University, specializing in
 
 ## Selected Projects
 
-### [Mosaic — Network Reconnaissance & Mapping Tool (In-Development)](https://github.com/abergmn/mosaic)
-A Python‑based tool for performing host discovery, port scanning, banner grabbing, and network topology mapping. Designed as a proof‑of‑concept for network intelligence gathering and visualization.
-<br />
-*Technologies*: Python, CLI
-
 ### [GWrapper -- Electron.js Wrapper](https://github.com/abergmn/gwrapper)
 An Electron.js wrapper created to simplify desktop application development. The package abstracts common setup tasks, allowing for faster prototyping and deployment.
 <br />
